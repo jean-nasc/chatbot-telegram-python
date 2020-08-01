@@ -1,0 +1,17 @@
+{
+    "101":{
+        "titulo": "Essencial",
+        "beneficios": "6 saques/mês, 4 transferências",
+        "valor": "0"
+    },
+    "102":{
+        "titulo": "Universitário",
+        "beneficios": "12 saques/mês, 10 transferências, cheque especial",
+        "valor": "22.50"
+    },
+    "103":{
+        "titulo": "Deluxe",
+        "beneficios": "saques ilimitados, transferências ilimitadas, cheque especial, sem anuidade no cartão de crédito",
+        "valor": "47.80"
+    }
+}
